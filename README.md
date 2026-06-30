@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nithin 👋</h1>
+<h1 align="center">Hi, I'm Nithin</h1>
 <h3 align="center">Full-stack curious — from kernel to cloud</h3>
 
 <p align="center">
@@ -9,13 +9,13 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 CSE undergrad who enjoys building across the stack — from low-level systems and scripting to ML pipelines and cloud infra. Always curious about how things work and how to make them scale.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -79,7 +79,7 @@ CSE undergrad who enjoys building across the stack — from low-level systems an
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nithin078&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
@@ -88,7 +88,7 @@ CSE undergrad who enjoys building across the stack — from low-level systems an
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/r-nithin-kumar-reddy/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
