@@ -14,6 +14,12 @@
 CSE undergrad who enjoys building across the stack — from low-level systems and scripting to ML pipelines and cloud infra. Always curious about how things work and how to make them scale.
 
 ---
+---
+
+### Portfolio
+
+**[nithin078.github.io](https://nithin078.github.io)** — projects, open source (Prowler), and architecture walkthroughs.
+
 
 ### Tech Stack
 
