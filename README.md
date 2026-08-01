@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Nithin Kumar Reddy 👋
+# Hi, I'm Nithin
 
 CS undergrad at **PES University** (Bengaluru) — building production-minded AI systems, cloud-native pipelines, and shipping real fixes to open-source projects.
 
