@@ -2,8 +2,6 @@
 
 # Hi, I'm Nithin Kumar Reddy 👋
 
-### Software engineer · multi-agent systems · cloud security · open source
-
 CS undergrad at **PES University** (Bengaluru) — building production-minded AI systems, cloud-native pipelines, and shipping real fixes to open-source projects.
 
 <br/>
@@ -18,6 +16,10 @@ CS undergrad at **PES University** (Bengaluru) — building production-minded AI
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=F0E6A6&center=true&vCenter=true&width=520&lines=Multi-agent+%26+cloud+systems;Open-source+contributor;Building+systems+that+ship" alt="Typing SVG" />
 
+<br/>
+
+**Currently:** OSS on [Memgraph](https://github.com/memgraph/memgraph/pull/4490) · [RTK](https://github.com/rtk-ai/rtk/pull/3251) · shipped checks to [Prowler](https://github.com/prowler-cloud/prowler)
+
 </div>
 
 ---
@@ -31,8 +33,6 @@ I care about systems that are **correct, observable, and shippable** — from mu
 | **Open source** | Merged checks into [Prowler](https://github.com/prowler-cloud/prowler); tests into [OpenSRE](https://github.com/Tracer-Cloud/opensre); active PRs on [Memgraph](https://github.com/memgraph/memgraph) & [RTK](https://github.com/rtk-ai/rtk) |
 | **Research** | Summer intern at **IFSCR** — image provenance via SIFT + temporal graph analysis |
 | **Building** | Autonomous engineering agents, agentic ETL on Azure, AI demo generation |
-
-> Portfolio & walkthroughs → **[nithin078.github.io](https://nithin078.github.io)**
 
 ---
 
@@ -56,7 +56,7 @@ Recent contributions across cloud security, AI SRE tooling, graph databases, and
       <a href="https://github.com/prowler-cloud/prowler/pull/12118">#12118</a> — SageMaker: endpoint-config KMS encryption check
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/merged-2-a2f4a2?style=flat-square" alt="merged"/>
+      <a href="https://github.com/prowler-cloud/prowler/pull/12076"><img src="https://img.shields.io/badge/merged-2-a2f4a2?style=flat-square" alt="merged"/></a>
     </td>
   </tr>
   <tr>
@@ -68,7 +68,7 @@ Recent contributions across cloud security, AI SRE tooling, graph databases, and
       <a href="https://github.com/Tracer-Cloud/opensre/pull/4401">#4401</a> — unit tests for <code>record_conversation_turn</code> (append, window shrink, in-place update)
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/merged-1-a2f4a2?style=flat-square" alt="merged"/>
+      <a href="https://github.com/Tracer-Cloud/opensre/pull/4401"><img src="https://img.shields.io/badge/merged-1-a2f4a2?style=flat-square" alt="merged"/></a>
     </td>
   </tr>
   <tr>
@@ -80,7 +80,7 @@ Recent contributions across cloud security, AI SRE tooling, graph databases, and
       <a href="https://github.com/memgraph/memgraph/pull/4490">#4490</a> — fix SIGSEGV on RETURN-only <code>EXISTS</code> subqueries in the Cypher planner
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/open-PR-f0e6a6?style=flat-square" alt="open"/>
+      <a href="https://github.com/memgraph/memgraph/pull/4490"><img src="https://img.shields.io/github/issues/pr/detail/state/memgraph/memgraph/4490?style=flat-square&label=PR" alt="PR status"/></a>
     </td>
   </tr>
   <tr>
@@ -92,7 +92,7 @@ Recent contributions across cloud security, AI SRE tooling, graph databases, and
       <a href="https://github.com/rtk-ai/rtk/pull/3251">#3251</a> — skip CD/release pipeline entry jobs on forks
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/open-PR-f0e6a6?style=flat-square" alt="open"/>
+      <a href="https://github.com/rtk-ai/rtk/pull/3251"><img src="https://img.shields.io/github/issues/pr/detail/state/rtk-ai/rtk/3251?style=flat-square&label=PR" alt="PR status"/></a>
     </td>
   </tr>
 </table>
@@ -101,12 +101,47 @@ Recent contributions across cloud security, AI SRE tooling, graph databases, and
 
 ### Featured work
 
-| Project | Stack | What it is |
-|:--------|:------|:-----------|
-| **[Aegis Engineer](https://github.com/Nithin078/Aegis-Engineer)** | Python · agents · AST/LSP | Autonomous software-engineering platform — semantic search, multi-agent planning, PR-style fixes |
-| **[Agentic pipeline orchestration](https://github.com/Nithin078/Agentic-AI-Driven-Dynamic-Orchestration-of-Big-Data-Pipelines)** | FastAPI · Azure · Databricks | 7-agent system for ETL on ADF + Databricks — plan, size, monitor, heal |
-| **[DemoGen](https://github.com/Nithin078/DemoGen)** | Playwright · TTS · FFmpeg | AI demo video generator from a plain-language prompt |
-| **[Portfolio](https://nithin078.github.io)** | HTML · design | Personal site with projects, open source, and resume |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Nithin078/Aegis-Engineer">Aegis Engineer</a></h3>
+      <p>Autonomous software-engineering platform — AST, LSP, semantic search, multi-agent planning toward PR-style fixes.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Agents-1c1c1c?style=flat-square" alt="Agents"/>
+        <img src="https://img.shields.io/badge/AST%20%2F%20LSP-f0e6a6?style=flat-square&labelColor=1c1c1c" alt="AST/LSP"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Nithin078/Agentic-AI-Driven-Dynamic-Orchestration-of-Big-Data-Pipelines">Agentic pipeline orchestration</a></h3>
+      <p>7-agent system for ETL on Azure Data Factory + Databricks — plan, size, monitor, and heal pipelines.</p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+        <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure"/>
+        <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Nithin078/DemoGen">DemoGen</a></h3>
+      <p>AI demo video generator — Playwright + TTS + FFmpeg from a plain-language prompt.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright"/>
+        <img src="https://img.shields.io/badge/TTS-1c1c1c?style=flat-square" alt="TTS"/>
+        <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://nithin078.github.io">Portfolio</a></h3>
+      <p>Personal site with projects, open-source write-ups, architecture notes, and resume.</p>
+      <p>
+        <a href="https://nithin078.github.io"><img src="https://img.shields.io/badge/Live_site-1c1c1c?style=flat-square&logo=githubpages&logoColor=f0e6a6" alt="Live site"/></a>
+        <a href="https://nithin078.github.io/resume/Nithin_Kumar_Reddy.pdf"><img src="https://img.shields.io/badge/Resume-f0e6a6?style=flat-square&labelColor=1c1c1c" alt="Resume"/></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
