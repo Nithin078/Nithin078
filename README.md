@@ -48,7 +48,7 @@ Recent contributions across cloud security, AI SRE tooling, graph databases, and
       <a href="https://github.com/prowler-cloud/prowler/pull/12118">#12118</a> — SageMaker: endpoint-config KMS encryption check
     </td>
     <td align="center">
-      <a href="https://github.com/prowler-cloud/prowler/pull/12076"><img src="https://img.shields.io/badge/merged-a2f4a2?style=flat-square&labelColor=1c1c1c" alt="merged"/></a>
+      <a href="https://github.com/prowler-cloud/prowler/pull/12076"><img src="https://img.shields.io/badge/merged-2-a2f4a2?style=flat-square&labelColor=1c1c1c" alt="merged 2"/></a>
     </td>
   </tr>
   <tr>
@@ -60,7 +60,7 @@ Recent contributions across cloud security, AI SRE tooling, graph databases, and
       <a href="https://github.com/Tracer-Cloud/opensre/pull/4401">#4401</a> — unit tests for <code>record_conversation_turn</code> (append, window shrink, in-place update)
     </td>
     <td align="center">
-      <a href="https://github.com/Tracer-Cloud/opensre/pull/4401"><img src="https://img.shields.io/badge/merged-a2f4a2?style=flat-square&labelColor=1c1c1c" alt="merged"/></a>
+      <a href="https://github.com/Tracer-Cloud/opensre/pull/4401"><img src="https://img.shields.io/badge/merged-1-a2f4a2?style=flat-square&labelColor=1c1c1c" alt="merged 1"/></a>
     </td>
   </tr>
   <tr>
@@ -72,7 +72,7 @@ Recent contributions across cloud security, AI SRE tooling, graph databases, and
       <a href="https://github.com/memgraph/memgraph/pull/4490">#4490</a> — fix SIGSEGV on RETURN-only <code>EXISTS</code> subqueries in the Cypher planner
     </td>
     <td align="center">
-      <a href="https://github.com/memgraph/memgraph/pull/4490"><img src="https://img.shields.io/badge/open-f0e6a6?style=flat-square&labelColor=1c1c1c" alt="open"/></a>
+      <a href="https://github.com/memgraph/memgraph/pull/4490"><img src="https://img.shields.io/badge/open-1-f0e6a6?style=flat-square&labelColor=1c1c1c" alt="open 1"/></a>
     </td>
   </tr>
   <tr>
@@ -84,7 +84,7 @@ Recent contributions across cloud security, AI SRE tooling, graph databases, and
       <a href="https://github.com/rtk-ai/rtk/pull/3251">#3251</a> — skip CD/release pipeline entry jobs on forks
     </td>
     <td align="center">
-      <a href="https://github.com/rtk-ai/rtk/pull/3251"><img src="https://img.shields.io/badge/open-f0e6a6?style=flat-square&labelColor=1c1c1c" alt="open"/></a>
+      <a href="https://github.com/rtk-ai/rtk/pull/3251"><img src="https://img.shields.io/badge/open-1-f0e6a6?style=flat-square&labelColor=1c1c1c" alt="open 1"/></a>
     </td>
   </tr>
 </table>
